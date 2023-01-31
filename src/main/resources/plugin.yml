@@ -2,3 +2,4 @@ name: BanHorn
 version: '1.0.0'
 main: love.chihuyu.Plugin
 authors: [ Hirosuke ]
+api-version: 1.19
